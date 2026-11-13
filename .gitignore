@@ -152,3 +152,5 @@ xcuserdata
 
 # Xcode-generated local package state
 .swiftpm/
+config.bat
+node_modules
